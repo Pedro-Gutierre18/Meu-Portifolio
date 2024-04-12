@@ -1,7 +1,7 @@
 ## Esse é meu portifolio!
 💻-Criado no evento 'Semana do Zero ao Programador' do canal Dev em dobro.
 
-Nele vou atualizar meus projetos e aprendizados 👌
+Nele vou atualizar meus projetos e aprendizados.
 
 
 
